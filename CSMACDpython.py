@@ -1,5 +1,5 @@
 # Apoorva Bapat
-# Assignment 1 - CSMA CD Time Driven Simulation
+# CSMA CD Time Driven Simulation
 
 import random
 
